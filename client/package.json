@@ -31,5 +31,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:5000"
+  "proxy": "https://warm-peak-33473.herokuapp.com"
 }
